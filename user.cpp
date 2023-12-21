@@ -1,22 +1,19 @@
-#include <iostream>
-#include <string>
-#include <vector>
+#include "user.h"
 
-class User {
-public:
-    std::string username;
-    std::string name;
-    std::string surname;
-    int follower_count;
-    int follows_count;
-    std::string language;
-    std::string region;
-    std::vector<std::string> tweets;
-    std::vector<User*> followers;
-    std::vector<User*> follows;
+// Implement member functions here
+User::User(std::string username, std::string name, std::string surname, std::string language, std::string region)
+    : username(username), name(name), surname(surname), language(language), region(region),
+      follower_count(0), follows_count(0) {
+    // Initialize other members as needed
+}
 
-    User(std::string username, std::string name, std::string surname, std::string language, std::string region)
-        : username(username), name(name), surname(surname), language(language), region(region),
-          follower_count(0), follows_count(0) {}
+bool User::operator==(const User& other) const {
+    return username == other.username &&
+           name == other.name &&
+           surname == other.surname &&
+           follower_count == other.follower_count &&
+           follows_count == other.follows_count &&
+           language == other.language &&
+           region == other.region;
+}
 
-};

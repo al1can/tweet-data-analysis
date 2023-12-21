@@ -1,10 +1,7 @@
-#include <iostream>
-#include <string>
+#include "tweet.h"
 
-class Tweet {
-public:
-    std::string text;
+// Implement member functions here
+Tweet::Tweet(std::string text) : text(text) {
+    // Initialize other members as needed
+}
 
-    Tweet(std::string text) : text(text) {}
-
-};

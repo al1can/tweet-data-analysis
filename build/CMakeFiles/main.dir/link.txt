@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/tweet.cpp.o CMakeFiles/main.dir/user.cpp.o -o main  externals/faker-cxx/libfaker-cxx.a externals/faker-cxx/externals/fmt/libfmt.a 
