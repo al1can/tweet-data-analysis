@@ -1,7 +1,7 @@
 externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/modules/datatype/Datatype.cpp.o: \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/modules/datatype/Datatype.cpp \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/modules/datatype/Datatype.cpp \
  /usr/include/stdc-predef.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/Datatype.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/Datatype.h \
  /usr/include/c++/11/optional /usr/include/c++/11/utility \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -38,7 +38,7 @@ externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/modules/datatype/Datatype.cpp.o
  /usr/include/c++/11/bits/stl_iterator_base_funcs.h \
  /usr/include/c++/11/bits/concept_check.h \
  /usr/include/c++/11/debug/assertions.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/Number.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/Number.h \
  /usr/include/c++/11/algorithm /usr/include/c++/11/bits/stl_algobase.h \
  /usr/include/c++/11/bits/functexcept.h \
  /usr/include/c++/11/bits/stl_iterator.h \

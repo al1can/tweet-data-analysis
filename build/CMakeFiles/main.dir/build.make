@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/alicangndz/Documents/prolab3
+CMAKE_SOURCE_DIR = /home/alicangndz/Desktop/prolab3
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/alicangndz/Documents/prolab3/build
+CMAKE_BINARY_DIR = /home/alicangndz/Desktop/prolab3/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/main.dir/depend.make
@@ -72,44 +72,44 @@ include CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/main.cpp.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/main.cpp.o: ../main.cpp
 CMakeFiles/main.dir/main.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/alicangndz/Documents/prolab3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/main.dir/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/main.cpp.o -MF CMakeFiles/main.dir/main.cpp.o.d -o CMakeFiles/main.dir/main.cpp.o -c /home/alicangndz/Documents/prolab3/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/alicangndz/Desktop/prolab3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/main.dir/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/main.cpp.o -MF CMakeFiles/main.dir/main.cpp.o.d -o CMakeFiles/main.dir/main.cpp.o -c /home/alicangndz/Desktop/prolab3/main.cpp
 
 CMakeFiles/main.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/alicangndz/Documents/prolab3/main.cpp > CMakeFiles/main.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/alicangndz/Desktop/prolab3/main.cpp > CMakeFiles/main.dir/main.cpp.i
 
 CMakeFiles/main.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/alicangndz/Documents/prolab3/main.cpp -o CMakeFiles/main.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/alicangndz/Desktop/prolab3/main.cpp -o CMakeFiles/main.dir/main.cpp.s
 
 CMakeFiles/main.dir/tweet.cpp.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/tweet.cpp.o: ../tweet.cpp
 CMakeFiles/main.dir/tweet.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/alicangndz/Documents/prolab3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/main.dir/tweet.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/tweet.cpp.o -MF CMakeFiles/main.dir/tweet.cpp.o.d -o CMakeFiles/main.dir/tweet.cpp.o -c /home/alicangndz/Documents/prolab3/tweet.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/alicangndz/Desktop/prolab3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/main.dir/tweet.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/tweet.cpp.o -MF CMakeFiles/main.dir/tweet.cpp.o.d -o CMakeFiles/main.dir/tweet.cpp.o -c /home/alicangndz/Desktop/prolab3/tweet.cpp
 
 CMakeFiles/main.dir/tweet.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/tweet.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/alicangndz/Documents/prolab3/tweet.cpp > CMakeFiles/main.dir/tweet.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/alicangndz/Desktop/prolab3/tweet.cpp > CMakeFiles/main.dir/tweet.cpp.i
 
 CMakeFiles/main.dir/tweet.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/tweet.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/alicangndz/Documents/prolab3/tweet.cpp -o CMakeFiles/main.dir/tweet.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/alicangndz/Desktop/prolab3/tweet.cpp -o CMakeFiles/main.dir/tweet.cpp.s
 
 CMakeFiles/main.dir/user.cpp.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/user.cpp.o: ../user.cpp
 CMakeFiles/main.dir/user.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/alicangndz/Documents/prolab3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/main.dir/user.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/user.cpp.o -MF CMakeFiles/main.dir/user.cpp.o.d -o CMakeFiles/main.dir/user.cpp.o -c /home/alicangndz/Documents/prolab3/user.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/alicangndz/Desktop/prolab3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/main.dir/user.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/user.cpp.o -MF CMakeFiles/main.dir/user.cpp.o.d -o CMakeFiles/main.dir/user.cpp.o -c /home/alicangndz/Desktop/prolab3/user.cpp
 
 CMakeFiles/main.dir/user.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/user.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/alicangndz/Documents/prolab3/user.cpp > CMakeFiles/main.dir/user.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/alicangndz/Desktop/prolab3/user.cpp > CMakeFiles/main.dir/user.cpp.i
 
 CMakeFiles/main.dir/user.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/user.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/alicangndz/Documents/prolab3/user.cpp -o CMakeFiles/main.dir/user.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/alicangndz/Desktop/prolab3/user.cpp -o CMakeFiles/main.dir/user.cpp.s
 
 # Object files for target main
 main_OBJECTS = \
@@ -127,7 +127,7 @@ main: CMakeFiles/main.dir/build.make
 main: externals/faker-cxx/libfaker-cxx.a
 main: externals/faker-cxx/externals/fmt/libfmt.a
 main: CMakeFiles/main.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/alicangndz/Documents/prolab3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/alicangndz/Desktop/prolab3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable main"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/main.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -139,6 +139,6 @@ CMakeFiles/main.dir/clean:
 .PHONY : CMakeFiles/main.dir/clean
 
 CMakeFiles/main.dir/depend:
-	cd /home/alicangndz/Documents/prolab3/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/alicangndz/Documents/prolab3 /home/alicangndz/Documents/prolab3 /home/alicangndz/Documents/prolab3/build /home/alicangndz/Documents/prolab3/build /home/alicangndz/Documents/prolab3/build/CMakeFiles/main.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/alicangndz/Desktop/prolab3/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/alicangndz/Desktop/prolab3 /home/alicangndz/Desktop/prolab3 /home/alicangndz/Desktop/prolab3/build /home/alicangndz/Desktop/prolab3/build /home/alicangndz/Desktop/prolab3/build/CMakeFiles/main.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/main.dir/depend
 

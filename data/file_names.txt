@@ -3,3 +3,8 @@ gaming_tweets.txt
 movies_tweets.txt
 programming_tweets.txt
 reading_tweets.txt
+racing_tweets.txt
+fashion_tweets.txt
+science_tweets.txt
+art_tweets.txt
+vacation_tweets.txt

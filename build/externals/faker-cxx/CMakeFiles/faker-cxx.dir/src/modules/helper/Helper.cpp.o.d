@@ -1,7 +1,7 @@
 externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/modules/helper/Helper.cpp.o: \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/modules/helper/Helper.cpp \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/modules/helper/Helper.cpp \
  /usr/include/stdc-predef.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/Helper.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/Helper.h \
  /usr/include/c++/11/algorithm /usr/include/c++/11/utility \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -178,9 +178,9 @@ externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/modules/helper/Helper.cpp.o: \
  /usr/include/c++/11/bits/stl_set.h \
  /usr/include/c++/11/bits/stl_multiset.h /usr/include/c++/11/span \
  /usr/include/c++/11/cstddef \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/Datatype.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/Datatype.h \
  /usr/include/c++/11/optional \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/Number.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/Number.h \
  /usr/include/c++/11/random /usr/include/c++/11/cmath /usr/include/math.h \
  /usr/include/x86_64-linux-gnu/bits/math-vector.h \
  /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
@@ -276,5 +276,5 @@ externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/modules/helper/Helper.cpp.o: \
  /usr/include/c++/11/bits/regex.h /usr/include/c++/11/bits/regex.tcc \
  /usr/include/c++/11/bits/regex_executor.h \
  /usr/include/c++/11/bits/regex_executor.tcc \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/../src/common/LuhnCheck.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/../src/common/StringHelper.h
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/../src/common/LuhnCheck.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/../src/common/StringHelper.h

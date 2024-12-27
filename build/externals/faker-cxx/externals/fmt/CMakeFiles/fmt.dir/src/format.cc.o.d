@@ -1,7 +1,7 @@
 externals/faker-cxx/externals/fmt/CMakeFiles/fmt.dir/src/format.cc.o: \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/externals/fmt/src/format.cc \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/externals/fmt/src/format.cc \
  /usr/include/stdc-predef.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/externals/fmt/include/fmt/format-inl.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/externals/fmt/include/fmt/format-inl.h \
  /usr/include/c++/11/algorithm /usr/include/c++/11/utility \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -217,7 +217,7 @@ externals/faker-cxx/externals/fmt/CMakeFiles/fmt.dir/src/format.cc.o: \
  /usr/include/c++/11/ios /usr/include/c++/11/bits/basic_ios.h \
  /usr/include/c++/11/bits/basic_ios.tcc \
  /usr/include/c++/11/bits/ostream.tcc \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/externals/fmt/include/fmt/format.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/externals/fmt/include/fmt/format.h \
  /usr/include/c++/11/cstring /usr/include/string.h /usr/include/strings.h \
  /usr/include/c++/11/memory \
  /usr/include/c++/11/bits/stl_raw_storage_iter.h \
@@ -246,5 +246,5 @@ externals/faker-cxx/externals/fmt/CMakeFiles/fmt.dir/src/format.cc.o: \
  /usr/include/c++/11/bits/ranges_uninitialized.h \
  /usr/include/c++/11/bits/uses_allocator_args.h \
  /usr/include/c++/11/pstl/glue_memory_defs.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/externals/fmt/include/fmt/core.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/externals/fmt/include/fmt/core.h \
  /usr/include/c++/11/cstddef

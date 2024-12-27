@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/alicangndz/Documents/prolab3/externals/faker-cxx/externals/fmt/src/format.cc" "externals/faker-cxx/externals/fmt/CMakeFiles/fmt.dir/src/format.cc.o" "gcc" "externals/faker-cxx/externals/fmt/CMakeFiles/fmt.dir/src/format.cc.o.d"
-  "/home/alicangndz/Documents/prolab3/externals/faker-cxx/externals/fmt/src/os.cc" "externals/faker-cxx/externals/fmt/CMakeFiles/fmt.dir/src/os.cc.o" "gcc" "externals/faker-cxx/externals/fmt/CMakeFiles/fmt.dir/src/os.cc.o.d"
+  "/home/alicangndz/Desktop/prolab3/externals/faker-cxx/externals/fmt/src/format.cc" "externals/faker-cxx/externals/fmt/CMakeFiles/fmt.dir/src/format.cc.o" "gcc" "externals/faker-cxx/externals/fmt/CMakeFiles/fmt.dir/src/format.cc.o.d"
+  "/home/alicangndz/Desktop/prolab3/externals/faker-cxx/externals/fmt/src/os.cc" "externals/faker-cxx/externals/fmt/CMakeFiles/fmt.dir/src/os.cc.o" "gcc" "externals/faker-cxx/externals/fmt/CMakeFiles/fmt.dir/src/os.cc.o.d"
   )
 
 # Targets to which this target links.

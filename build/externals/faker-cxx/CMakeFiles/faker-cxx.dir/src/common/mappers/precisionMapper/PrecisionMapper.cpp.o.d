@@ -1,8 +1,8 @@
 externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/common/mappers/precisionMapper/PrecisionMapper.cpp.o: \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/common/mappers/precisionMapper/PrecisionMapper.cpp \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/common/mappers/precisionMapper/PrecisionMapper.cpp \
  /usr/include/stdc-predef.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/common/mappers/precisionMapper/PrecisionMapper.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/types/Precision.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/common/mappers/precisionMapper/PrecisionMapper.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/types/Precision.h \
  /usr/include/c++/11/map /usr/include/c++/11/bits/stl_tree.h \
  /usr/include/c++/11/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \

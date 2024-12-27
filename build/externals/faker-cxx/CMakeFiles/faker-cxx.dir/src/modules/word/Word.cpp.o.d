@@ -1,7 +1,7 @@
 externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/modules/word/Word.cpp.o: \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/modules/word/Word.cpp \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/modules/word/Word.cpp \
  /usr/include/stdc-predef.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/Word.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/Word.h \
  /usr/include/c++/11/optional /usr/include/c++/11/utility \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -145,19 +145,19 @@ externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/modules/word/Word.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
  /usr/include/c++/11/bits/charconv.h \
  /usr/include/c++/11/bits/basic_string.tcc \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/modules/word/../../common/StringHelper.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/modules/word/../../common/StringHelper.h \
  /usr/include/c++/11/vector /usr/include/c++/11/bits/stl_uninitialized.h \
  /usr/include/c++/11/bits/stl_vector.h \
  /usr/include/c++/11/bits/stl_bvector.h \
  /usr/include/c++/11/bits/vector.tcc \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/modules/word/data/Adjectives.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/modules/word/data/Adverbs.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/modules/word/data/Conjunctions.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/modules/word/data/Interjections.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/modules/word/data/Nouns.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/modules/word/data/Prepositions.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/modules/word/data/Verbs.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/Helper.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/modules/word/data/Adjectives.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/modules/word/data/Adverbs.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/modules/word/data/Conjunctions.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/modules/word/data/Interjections.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/modules/word/data/Nouns.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/modules/word/data/Prepositions.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/modules/word/data/Verbs.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/Helper.h \
  /usr/include/c++/11/algorithm /usr/include/c++/11/bits/ranges_algo.h \
  /usr/include/c++/11/bits/ranges_algobase.h /usr/include/c++/11/iterator \
  /usr/include/c++/11/bits/stream_iterator.h \
@@ -188,8 +188,8 @@ externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/modules/word/Word.cpp.o: \
  /usr/include/c++/11/bits/stl_set.h \
  /usr/include/c++/11/bits/stl_multiset.h /usr/include/c++/11/span \
  /usr/include/c++/11/cstddef \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/Datatype.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/Number.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/Datatype.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/Number.h \
  /usr/include/c++/11/random /usr/include/c++/11/cmath /usr/include/math.h \
  /usr/include/x86_64-linux-gnu/bits/math-vector.h \
  /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
@@ -226,9 +226,9 @@ externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/modules/word/Word.cpp.o: \
  /usr/include/c++/11/bits/ostream.tcc \
  /usr/include/c++/11/bits/istream.tcc \
  /usr/include/c++/11/bits/sstream.tcc \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/String.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/String.h \
  /usr/include/c++/11/iostream /usr/include/c++/11/map \
  /usr/include/c++/11/bits/stl_map.h \
  /usr/include/c++/11/bits/stl_multimap.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/types/Hex.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/types/RandomGenerator.h
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/types/Hex.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/types/RandomGenerator.h

@@ -1,7 +1,7 @@
 externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/modules/phone/Phone.cpp.o: \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/modules/phone/Phone.cpp \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/modules/phone/Phone.cpp \
  /usr/include/stdc-predef.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/Phone.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/Phone.h \
  /usr/include/c++/11/map /usr/include/c++/11/bits/stl_tree.h \
  /usr/include/c++/11/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
@@ -153,13 +153,13 @@ externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/modules/phone/Phone.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
  /usr/include/c++/11/bits/charconv.h \
  /usr/include/c++/11/bits/basic_string.tcc \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/types/PhoneNumberCountryFormat.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/modules/phone/data/PhoneNumbers.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/types/PhoneNumberCountryFormat.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/modules/phone/data/PhoneNumbers.h \
  /usr/include/c++/11/vector /usr/include/c++/11/bits/stl_uninitialized.h \
  /usr/include/c++/11/bits/stl_vector.h \
  /usr/include/c++/11/bits/stl_bvector.h \
  /usr/include/c++/11/bits/vector.tcc \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/Helper.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/Helper.h \
  /usr/include/c++/11/algorithm /usr/include/c++/11/bits/ranges_algo.h \
  /usr/include/c++/11/bits/ranges_algobase.h /usr/include/c++/11/iterator \
  /usr/include/c++/11/bits/stream_iterator.h \
@@ -183,8 +183,8 @@ externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/modules/phone/Phone.cpp.o: \
  /usr/include/c++/11/set /usr/include/c++/11/bits/stl_set.h \
  /usr/include/c++/11/bits/stl_multiset.h /usr/include/c++/11/span \
  /usr/include/c++/11/cstddef \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/Datatype.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/Number.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/Datatype.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/Number.h \
  /usr/include/c++/11/random /usr/include/c++/11/cmath /usr/include/math.h \
  /usr/include/x86_64-linux-gnu/bits/math-vector.h \
  /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
@@ -221,4 +221,4 @@ externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/modules/phone/Phone.cpp.o: \
  /usr/include/c++/11/bits/ostream.tcc \
  /usr/include/c++/11/bits/istream.tcc \
  /usr/include/c++/11/bits/sstream.tcc \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/modules/phone/data/PhoneData.h
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/modules/phone/data/PhoneData.h

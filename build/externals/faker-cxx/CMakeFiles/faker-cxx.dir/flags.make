@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/alicangndz/Documents/prolab3/externals/faker-cxx/include -I/home/alicangndz/Documents/prolab3/externals/faker-cxx/externals/fmt/include
+CXX_INCLUDES = -I/home/alicangndz/Desktop/prolab3/externals/faker-cxx/include -I/home/alicangndz/Desktop/prolab3/externals/faker-cxx/externals/fmt/include
 
-CXX_FLAGS =  -Wall -Wextra -Wpedantic -Wconversion -Wformat -Werror -std=gnu++20
+CXX_FLAGS =  -g -Wall -Wextra -Wpedantic -Wconversion -Wformat -Werror -std=gnu++20
 

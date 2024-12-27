@@ -1,7 +1,7 @@
 externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/modules/crypto/Crypto.cpp.o: \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/modules/crypto/Crypto.cpp \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/modules/crypto/Crypto.cpp \
  /usr/include/stdc-predef.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/Crypto.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/Crypto.h \
  /usr/include/c++/11/array /usr/include/c++/11/utility \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -172,4 +172,4 @@ externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/modules/crypto/Crypto.cpp.o: \
  /usr/include/c++/11/istream /usr/include/c++/11/bits/istream.tcc \
  /usr/include/c++/11/bits/sstream.tcc /usr/include/c++/11/optional \
  /usr/include/c++/11/bits/enable_special_members.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/Word.h
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/Word.h

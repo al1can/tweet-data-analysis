@@ -1,7 +1,7 @@
 externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/common/BioHelper.cpp.o: \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/common/BioHelper.cpp \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/common/BioHelper.cpp \
  /usr/include/stdc-predef.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/common/BioHelper.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/common/BioHelper.h \
  /usr/include/c++/11/functional \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -238,8 +238,8 @@ externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/common/BioHelper.cpp.o: \
  /usr/include/c++/11/bits/regex.h /usr/include/c++/11/bits/regex.tcc \
  /usr/include/c++/11/bits/regex_executor.h \
  /usr/include/c++/11/bits/regex_executor.tcc \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/common/../../include/faker-cxx/Internet.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/common/../../include/faker-cxx/Internet.h \
  /usr/include/c++/11/optional \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/common/../../include/faker-cxx/types/EmojiType.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/common/../../src/modules/person/data/Bio.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/common/../../src/modules/word/data/Nouns.h
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/common/../../include/faker-cxx/types/EmojiType.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/common/../../src/modules/person/data/Bio.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/common/../../src/modules/word/data/Nouns.h

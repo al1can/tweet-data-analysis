@@ -1,4 +1,4 @@
-# Install script for directory: /home/alicangndz/Documents/prolab3/externals/faker-cxx
+# Install script for directory: /home/alicangndz/Desktop/prolab3/externals/faker-cxx
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,6 +44,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/alicangndz/Documents/prolab3/build/externals/faker-cxx/externals/fmt/cmake_install.cmake")
+  include("/home/alicangndz/Desktop/prolab3/build/externals/faker-cxx/externals/fmt/cmake_install.cmake")
 endif()
 

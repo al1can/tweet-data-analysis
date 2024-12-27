@@ -1,7 +1,7 @@
 externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/common/FormatHelper.cpp.o: \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/common/FormatHelper.cpp \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/common/FormatHelper.cpp \
  /usr/include/stdc-predef.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/common/FormatHelper.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/common/FormatHelper.h \
  /usr/include/c++/11/functional \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -157,12 +157,12 @@ externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/common/FormatHelper.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
  /usr/include/c++/11/bits/charconv.h \
  /usr/include/c++/11/bits/basic_string.tcc \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/common/errors/TokenGeneratorNotFoundError.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/common/errors/TokenGeneratorNotFoundError.h \
  /usr/include/c++/11/stdexcept /usr/include/c++/11/exception \
  /usr/include/c++/11/bits/exception_ptr.h \
  /usr/include/c++/11/bits/cxxabi_init_exception.h \
  /usr/include/c++/11/bits/nested_exception.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/externals/fmt/include/fmt/format.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/externals/fmt/include/fmt/format.h \
  /usr/include/c++/11/cmath /usr/include/math.h \
  /usr/include/x86_64-linux-gnu/bits/math-vector.h \
  /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
@@ -240,5 +240,5 @@ externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/common/FormatHelper.cpp.o: \
  /usr/include/c++/11/bits/uses_allocator_args.h \
  /usr/include/c++/11/pstl/glue_memory_defs.h \
  /usr/include/c++/11/pstl/execution_defs.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/externals/fmt/include/fmt/core.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/externals/fmt/include/fmt/core.h \
  /usr/include/c++/11/cstddef

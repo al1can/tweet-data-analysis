@@ -1,7 +1,7 @@
 externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/modules/medicine/Medicine.cpp.o: \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/modules/medicine/Medicine.cpp \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/modules/medicine/Medicine.cpp \
  /usr/include/stdc-predef.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/Medicine.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/Medicine.h \
  /usr/include/c++/11/string \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -140,14 +140,14 @@ externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/modules/medicine/Medicine.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
  /usr/include/c++/11/bits/charconv.h \
  /usr/include/c++/11/bits/basic_string.tcc \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/modules/medicine/data/conditon.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/modules/medicine/data/conditon.h \
  /usr/include/c++/11/vector /usr/include/c++/11/bits/stl_uninitialized.h \
  /usr/include/c++/11/bits/stl_vector.h \
  /usr/include/c++/11/bits/stl_bvector.h \
  /usr/include/c++/11/bits/vector.tcc \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/modules/medicine/data/medicaltests.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/modules/medicine/data/specialty.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/Helper.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/modules/medicine/data/medicaltests.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/modules/medicine/data/specialty.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/Helper.h \
  /usr/include/c++/11/algorithm /usr/include/c++/11/utility \
  /usr/include/c++/11/bits/stl_relops.h \
  /usr/include/c++/11/bits/ranges_algo.h \
@@ -185,9 +185,9 @@ externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/modules/medicine/Medicine.cpp.o
  /usr/include/c++/11/bits/stl_set.h \
  /usr/include/c++/11/bits/stl_multiset.h /usr/include/c++/11/span \
  /usr/include/c++/11/cstddef \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/Datatype.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/Datatype.h \
  /usr/include/c++/11/optional \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/Number.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/Number.h \
  /usr/include/c++/11/random /usr/include/c++/11/cmath /usr/include/math.h \
  /usr/include/x86_64-linux-gnu/bits/math-vector.h \
  /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \

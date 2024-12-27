@@ -1,7 +1,7 @@
 externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/common/LuhnCheck.cpp.o: \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/common/LuhnCheck.cpp \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/common/LuhnCheck.cpp \
  /usr/include/stdc-predef.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/common/LuhnCheck.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/common/LuhnCheck.h \
  /usr/include/c++/11/algorithm /usr/include/c++/11/utility \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \

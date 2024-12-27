@@ -1,7 +1,7 @@
 externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/modules/string/String.cpp.o: \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/modules/string/String.cpp \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/modules/string/String.cpp \
  /usr/include/stdc-predef.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/String.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/String.h \
  /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -202,8 +202,8 @@ externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/modules/string/String.cpp.o: \
  /usr/include/c++/11/bits/stl_set.h \
  /usr/include/c++/11/bits/stl_multiset.h /usr/include/c++/11/sstream \
  /usr/include/c++/11/bits/sstream.tcc \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/types/Hex.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/types/RandomGenerator.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/types/Hex.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/types/RandomGenerator.h \
  /usr/include/c++/11/algorithm /usr/include/c++/11/bits/ranges_algo.h \
  /usr/include/c++/11/bits/ranges_algobase.h /usr/include/c++/11/iterator \
  /usr/include/c++/11/bits/stream_iterator.h \
@@ -216,9 +216,9 @@ externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/modules/string/String.cpp.o: \
  /usr/include/c++/11/bits/enable_special_members.h \
  /usr/include/c++/11/bits/unordered_map.h /usr/include/c++/11/cassert \
  /usr/include/assert.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/modules/string/data/Characters.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/Helper.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/modules/string/data/Characters.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/Helper.h \
  /usr/include/c++/11/span /usr/include/c++/11/cstddef \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/Datatype.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/Datatype.h \
  /usr/include/c++/11/optional \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/Number.h
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/Number.h

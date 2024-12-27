@@ -1,7 +1,7 @@
 externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/modules/hacker/Hacker.cpp.o: \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/modules/hacker/Hacker.cpp \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/modules/hacker/Hacker.cpp \
  /usr/include/stdc-predef.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/Hacker.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/Hacker.h \
  /usr/include/c++/11/string \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -144,13 +144,13 @@ externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/modules/hacker/Hacker.cpp.o: \
  /usr/include/c++/11/bits/stl_vector.h \
  /usr/include/c++/11/bits/stl_bvector.h \
  /usr/include/c++/11/bits/vector.tcc \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/modules/hacker/../../common/StringHelper.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/modules/hacker/data/Abbreviations.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/modules/hacker/data/Adjectives.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/modules/hacker/data/Ingverbs.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/modules/hacker/data/Nouns.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/modules/hacker/data/Phrases.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/Helper.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/modules/hacker/../../common/StringHelper.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/modules/hacker/data/Abbreviations.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/modules/hacker/data/Adjectives.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/modules/hacker/data/Ingverbs.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/modules/hacker/data/Nouns.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/modules/hacker/data/Phrases.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/Helper.h \
  /usr/include/c++/11/algorithm /usr/include/c++/11/utility \
  /usr/include/c++/11/bits/stl_relops.h \
  /usr/include/c++/11/bits/ranges_algo.h \
@@ -188,9 +188,9 @@ externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/modules/hacker/Hacker.cpp.o: \
  /usr/include/c++/11/bits/stl_set.h \
  /usr/include/c++/11/bits/stl_multiset.h /usr/include/c++/11/span \
  /usr/include/c++/11/cstddef \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/Datatype.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/Datatype.h \
  /usr/include/c++/11/optional \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/Number.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/Number.h \
  /usr/include/c++/11/random /usr/include/c++/11/cmath /usr/include/math.h \
  /usr/include/x86_64-linux-gnu/bits/math-vector.h \
  /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
@@ -227,7 +227,7 @@ externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/modules/hacker/Hacker.cpp.o: \
  /usr/include/c++/11/bits/ostream.tcc \
  /usr/include/c++/11/bits/istream.tcc \
  /usr/include/c++/11/bits/sstream.tcc \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/externals/fmt/include/fmt/format.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/externals/fmt/include/fmt/format.h \
  /usr/include/c++/11/cstring /usr/include/string.h /usr/include/strings.h \
  /usr/include/c++/11/memory \
  /usr/include/c++/11/bits/stl_raw_storage_iter.h \
@@ -264,5 +264,5 @@ externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/modules/hacker/Hacker.cpp.o: \
  /usr/include/c++/11/bits/ranges_uninitialized.h \
  /usr/include/c++/11/bits/uses_allocator_args.h \
  /usr/include/c++/11/pstl/glue_memory_defs.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/externals/fmt/include/fmt/core.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/modules/hacker/data/Verbs.h
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/externals/fmt/include/fmt/core.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/modules/hacker/data/Verbs.h

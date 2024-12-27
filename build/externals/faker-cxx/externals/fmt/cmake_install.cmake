@@ -1,4 +1,4 @@
-# Install script for directory: /home/alicangndz/Documents/prolab3/externals/faker-cxx/externals/fmt
+# Install script for directory: /home/alicangndz/Desktop/prolab3/externals/faker-cxx/externals/fmt
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -43,31 +43,31 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/home/alicangndz/Documents/prolab3/build/externals/faker-cxx/externals/fmt/libfmt.a")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/home/alicangndz/Desktop/prolab3/build/externals/faker-cxx/externals/fmt/libfmt.a")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/fmt" TYPE FILE FILES
-    "/home/alicangndz/Documents/prolab3/externals/faker-cxx/externals/fmt/include/fmt/args.h"
-    "/home/alicangndz/Documents/prolab3/externals/faker-cxx/externals/fmt/include/fmt/chrono.h"
-    "/home/alicangndz/Documents/prolab3/externals/faker-cxx/externals/fmt/include/fmt/color.h"
-    "/home/alicangndz/Documents/prolab3/externals/faker-cxx/externals/fmt/include/fmt/compile.h"
-    "/home/alicangndz/Documents/prolab3/externals/faker-cxx/externals/fmt/include/fmt/core.h"
-    "/home/alicangndz/Documents/prolab3/externals/faker-cxx/externals/fmt/include/fmt/format.h"
-    "/home/alicangndz/Documents/prolab3/externals/faker-cxx/externals/fmt/include/fmt/format-inl.h"
-    "/home/alicangndz/Documents/prolab3/externals/faker-cxx/externals/fmt/include/fmt/os.h"
-    "/home/alicangndz/Documents/prolab3/externals/faker-cxx/externals/fmt/include/fmt/ostream.h"
-    "/home/alicangndz/Documents/prolab3/externals/faker-cxx/externals/fmt/include/fmt/printf.h"
-    "/home/alicangndz/Documents/prolab3/externals/faker-cxx/externals/fmt/include/fmt/ranges.h"
-    "/home/alicangndz/Documents/prolab3/externals/faker-cxx/externals/fmt/include/fmt/std.h"
-    "/home/alicangndz/Documents/prolab3/externals/faker-cxx/externals/fmt/include/fmt/xchar.h"
+    "/home/alicangndz/Desktop/prolab3/externals/faker-cxx/externals/fmt/include/fmt/args.h"
+    "/home/alicangndz/Desktop/prolab3/externals/faker-cxx/externals/fmt/include/fmt/chrono.h"
+    "/home/alicangndz/Desktop/prolab3/externals/faker-cxx/externals/fmt/include/fmt/color.h"
+    "/home/alicangndz/Desktop/prolab3/externals/faker-cxx/externals/fmt/include/fmt/compile.h"
+    "/home/alicangndz/Desktop/prolab3/externals/faker-cxx/externals/fmt/include/fmt/core.h"
+    "/home/alicangndz/Desktop/prolab3/externals/faker-cxx/externals/fmt/include/fmt/format.h"
+    "/home/alicangndz/Desktop/prolab3/externals/faker-cxx/externals/fmt/include/fmt/format-inl.h"
+    "/home/alicangndz/Desktop/prolab3/externals/faker-cxx/externals/fmt/include/fmt/os.h"
+    "/home/alicangndz/Desktop/prolab3/externals/faker-cxx/externals/fmt/include/fmt/ostream.h"
+    "/home/alicangndz/Desktop/prolab3/externals/faker-cxx/externals/fmt/include/fmt/printf.h"
+    "/home/alicangndz/Desktop/prolab3/externals/faker-cxx/externals/fmt/include/fmt/ranges.h"
+    "/home/alicangndz/Desktop/prolab3/externals/faker-cxx/externals/fmt/include/fmt/std.h"
+    "/home/alicangndz/Desktop/prolab3/externals/faker-cxx/externals/fmt/include/fmt/xchar.h"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/fmt" TYPE FILE FILES
-    "/home/alicangndz/Documents/prolab3/build/externals/faker-cxx/externals/fmt/fmt-config.cmake"
-    "/home/alicangndz/Documents/prolab3/build/externals/faker-cxx/externals/fmt/fmt-config-version.cmake"
+    "/home/alicangndz/Desktop/prolab3/build/externals/faker-cxx/externals/fmt/fmt-config.cmake"
+    "/home/alicangndz/Desktop/prolab3/build/externals/faker-cxx/externals/fmt/fmt-config-version.cmake"
     )
 endif()
 
@@ -75,7 +75,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/cmake/fmt/fmt-targets.cmake")
     file(DIFFERENT EXPORT_FILE_CHANGED FILES
          "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/cmake/fmt/fmt-targets.cmake"
-         "/home/alicangndz/Documents/prolab3/build/externals/faker-cxx/externals/fmt/CMakeFiles/Export/lib/cmake/fmt/fmt-targets.cmake")
+         "/home/alicangndz/Desktop/prolab3/build/externals/faker-cxx/externals/fmt/CMakeFiles/Export/lib/cmake/fmt/fmt-targets.cmake")
     if(EXPORT_FILE_CHANGED)
       file(GLOB OLD_CONFIG_FILES "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/cmake/fmt/fmt-targets-*.cmake")
       if(OLD_CONFIG_FILES)
@@ -84,13 +84,13 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
       endif()
     endif()
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/fmt" TYPE FILE FILES "/home/alicangndz/Documents/prolab3/build/externals/faker-cxx/externals/fmt/CMakeFiles/Export/lib/cmake/fmt/fmt-targets.cmake")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/fmt" TYPE FILE FILES "/home/alicangndz/Desktop/prolab3/build/externals/faker-cxx/externals/fmt/CMakeFiles/Export/lib/cmake/fmt/fmt-targets.cmake")
   if("${CMAKE_INSTALL_CONFIG_NAME}" MATCHES "^()$")
-    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/fmt" TYPE FILE FILES "/home/alicangndz/Documents/prolab3/build/externals/faker-cxx/externals/fmt/CMakeFiles/Export/lib/cmake/fmt/fmt-targets-noconfig.cmake")
+    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/fmt" TYPE FILE FILES "/home/alicangndz/Desktop/prolab3/build/externals/faker-cxx/externals/fmt/CMakeFiles/Export/lib/cmake/fmt/fmt-targets-noconfig.cmake")
   endif()
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/alicangndz/Documents/prolab3/build/externals/faker-cxx/externals/fmt/fmt.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/alicangndz/Desktop/prolab3/build/externals/faker-cxx/externals/fmt/fmt.pc")
 endif()
 

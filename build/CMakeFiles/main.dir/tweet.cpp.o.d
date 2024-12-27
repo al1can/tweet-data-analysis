@@ -1,6 +1,6 @@
 CMakeFiles/main.dir/tweet.cpp.o: \
- /home/alicangndz/Documents/prolab3/tweet.cpp /usr/include/stdc-predef.h \
- /home/alicangndz/Documents/prolab3/tweet.h /usr/include/c++/11/string \
+ /home/alicangndz/Desktop/prolab3/tweet.cpp /usr/include/stdc-predef.h \
+ /home/alicangndz/Desktop/prolab3/tweet.h /usr/include/c++/11/string \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -127,4 +127,5 @@ CMakeFiles/main.dir/tweet.cpp.o: \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
  /usr/include/c++/11/bits/charconv.h \
- /usr/include/c++/11/bits/basic_string.tcc
+ /usr/include/c++/11/bits/basic_string.tcc \
+ /home/alicangndz/Desktop/prolab3/user.h

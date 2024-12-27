@@ -1,7 +1,7 @@
 externals/faker-cxx/externals/fmt/CMakeFiles/fmt.dir/src/os.cc.o: \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/externals/fmt/src/os.cc \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/externals/fmt/src/os.cc \
  /usr/include/stdc-predef.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/externals/fmt/include/fmt/os.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/externals/fmt/include/fmt/os.h \
  /usr/include/c++/11/cerrno \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -145,7 +145,7 @@ externals/faker-cxx/externals/fmt/CMakeFiles/fmt.dir/src/os.cc.o: \
  /usr/include/c++/11/ext/string_conversions.h \
  /usr/include/c++/11/bits/charconv.h \
  /usr/include/c++/11/bits/basic_string.tcc \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/externals/fmt/include/fmt/format.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/externals/fmt/include/fmt/format.h \
  /usr/include/c++/11/cmath /usr/include/math.h \
  /usr/include/x86_64-linux-gnu/bits/math-vector.h \
  /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
@@ -228,7 +228,7 @@ externals/faker-cxx/externals/fmt/CMakeFiles/fmt.dir/src/os.cc.o: \
  /usr/include/c++/11/bits/uses_allocator_args.h \
  /usr/include/c++/11/pstl/glue_memory_defs.h \
  /usr/include/c++/11/pstl/execution_defs.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/externals/fmt/include/fmt/core.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/externals/fmt/include/fmt/core.h \
  /usr/include/fcntl.h /usr/include/x86_64-linux-gnu/bits/fcntl.h \
  /usr/include/x86_64-linux-gnu/bits/fcntl-linux.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_iovec.h \

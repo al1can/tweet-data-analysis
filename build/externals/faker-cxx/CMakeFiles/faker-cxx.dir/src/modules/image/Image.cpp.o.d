@@ -1,7 +1,7 @@
 externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/modules/image/Image.cpp.o: \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/src/modules/image/Image.cpp \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/src/modules/image/Image.cpp \
  /usr/include/stdc-predef.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/Image.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/Image.h \
  /usr/include/c++/11/map /usr/include/c++/11/bits/stl_tree.h \
  /usr/include/c++/11/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
@@ -153,8 +153,8 @@ externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/modules/image/Image.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
  /usr/include/c++/11/bits/charconv.h \
  /usr/include/c++/11/bits/basic_string.tcc \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/types/ImageCategory.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/include/faker-cxx/Number.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/types/ImageCategory.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/include/faker-cxx/Number.h \
  /usr/include/c++/11/algorithm /usr/include/c++/11/bits/ranges_algo.h \
  /usr/include/c++/11/bits/ranges_algobase.h /usr/include/c++/11/iterator \
  /usr/include/c++/11/bits/stream_iterator.h \
@@ -216,7 +216,7 @@ externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/modules/image/Image.cpp.o: \
  /usr/include/c++/11/bits/ostream.tcc \
  /usr/include/c++/11/bits/istream.tcc \
  /usr/include/c++/11/bits/sstream.tcc \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/externals/fmt/include/fmt/format.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/externals/fmt/include/fmt/format.h \
  /usr/include/c++/11/cstring /usr/include/string.h /usr/include/strings.h \
  /usr/include/c++/11/memory \
  /usr/include/c++/11/bits/stl_raw_storage_iter.h \
@@ -253,5 +253,5 @@ externals/faker-cxx/CMakeFiles/faker-cxx.dir/src/modules/image/Image.cpp.o: \
  /usr/include/c++/11/bits/ranges_uninitialized.h \
  /usr/include/c++/11/bits/uses_allocator_args.h \
  /usr/include/c++/11/pstl/glue_memory_defs.h \
- /home/alicangndz/Documents/prolab3/externals/faker-cxx/externals/fmt/include/fmt/core.h \
+ /home/alicangndz/Desktop/prolab3/externals/faker-cxx/externals/fmt/include/fmt/core.h \
  /usr/include/c++/11/cstddef

@@ -2,15 +2,18 @@
 #define TWEET_H
 
 #include <string>
+#include "user.h"
 
 class Tweet {
 public:
     std::string text;
+    User* user;
+
+    struct std::hash<Tweet>;
 
     Tweet() {}
-    Tweet(std::string text);
+    Tweet(std::string text, User* user);
 
-    // Add other member functions as needed
 };
 
 #endif // TWEET_H
